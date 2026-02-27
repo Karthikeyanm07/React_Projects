@@ -35,7 +35,7 @@ const BmiCalculator = () => {
 			return;
 		}
 
-        // Calclate BMI
+		// Calclate BMI
 		let calculatedBMI = (inputWeight / (inputHeight * inputHeight)) * 10000;
 		calculatedBMI = parseFloat(calculatedBMI.toFixed(2));
 		setBMI(calculatedBMI);
@@ -67,7 +67,7 @@ const BmiCalculator = () => {
 						<img
 							src={bmi_cover_image}
 							alt="cover_image"
-                            className="w-full h-full object-contain"
+							className="w-full h-full object-contain"
 						/>
 					</div>
 					<div>
