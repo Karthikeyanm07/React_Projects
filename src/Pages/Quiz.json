@@ -1,0 +1,152 @@
+[
+	{
+		"id": 1,
+		"question": "Which planet is known as the 'Red Planet'?",
+		"options": ["Venus", "Mars", "Jupiter", "Saturn"],
+		"correctOption": 1
+	},
+	{
+		"id": 2,
+		"question": "What is the largest ocean in the world?",
+		"options": [
+			"Atlantic Ocean",
+			"Indian Ocean",
+			"Arctic Ocean",
+			"Pacific Ocean"
+		],
+		"correctOption": 3
+	},
+	{
+		"id": 3,
+		"question": "Who painted the Mona Lisa?",
+		"options": [
+			"Vincent van Gogh",
+			"Pablo Picasso",
+			"Leonardo da Vinci",
+			"Claude Monet"
+		],
+		"correctOption": 2
+	},
+	{
+		"id": 4,
+		"question": "What is the hardest natural substance on Earth?",
+		"options": ["Gold", "Iron", "Diamond", "Platinum"],
+		"correctOption": 2
+	},
+	{
+		"id": 5,
+		"question": "Which is the smallest continent in the world by land area?",
+		"options": ["Europe", "Australia", "Antarctica", "South America"],
+		"correctOption": 1
+	},
+	{
+		"id": 6,
+		"question": "Who is known as the 'Father of the Nation' in India?",
+		"options": [
+			"Jawaharlal Nehru",
+			"Subhash Chandra Bose",
+			"Mahatma Gandhi",
+			"Sardar Patel"
+		],
+		"correctOption": 2
+	},
+	{
+		"id": 7,
+		"question": "What is the capital city of Japan?",
+		"options": ["Seoul", "Beijing", "Bangkok", "Tokyo"],
+		"correctOption": 3
+	},
+	{
+		"id": 8,
+		"question": "Which gas do humans primarily inhale for survival?",
+		"options": ["Nitrogen", "Carbon Dioxide", "Oxygen", "Hydrogen"],
+		"correctOption": 2
+	},
+	{
+		"id": 9,
+		"question": "How many colors are there in a rainbow?",
+		"options": ["5", "6", "7", "8"],
+		"correctOption": 2
+	},
+	{
+		"id": 10,
+		"question": "Which animal is known as the 'Ship of the Desert'?",
+		"options": ["Elephant", "Camel", "Horse", "Donkey"],
+		"correctOption": 1
+	},
+	{
+		"id": 11,
+		"question": "Who invented the telephone?",
+		"options": [
+			"Thomas Edison",
+			"Albert Einstein",
+			"Alexander Graham Bell",
+			"Isaac Newton"
+		],
+		"correctOption": 2
+	},
+	{
+		"id": 12,
+		"question": "What is the chemical symbol for water?",
+		"options": ["H2O", "CO2", "O2", "NaCl"],
+		"correctOption": 0
+	},
+	{
+		"id": 13,
+		"question": "Which is the tallest mountain in the world?",
+		"options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Mount Fuji"],
+		"correctOption": 2
+	},
+	{
+		"id": 14,
+		"question": "What is the currency used in the United Kingdom?",
+		"options": ["Euro", "Dollar", "Yen", "Pound Sterling"],
+		"correctOption": 3
+	},
+	{
+		"id": 15,
+		"question": "Which bird is known for laying the largest eggs?",
+		"options": ["Eagle", "Ostrich", "Peacock", "Emperor Penguin"],
+		"correctOption": 1
+	},
+	{
+		"id": 16,
+		"question": "In which year did World War II end?",
+		"options": ["1918", "1939", "1945", "1950"],
+		"correctOption": 2
+	},
+	{
+		"id": 17,
+		"question": "Which organ in the human body pumps blood?",
+		"options": ["Lungs", "Brain", "Heart", "Liver"],
+		"correctOption": 2
+	},
+	{
+		"id": 18,
+		"question": "What is the largest mammal on Earth?",
+		"options": [
+			"African Elephant",
+			"Blue Whale",
+			"Giraffe",
+			"Great White Shark"
+		],
+		"correctOption": 1
+	},
+	{
+		"id": 19,
+		"question": "Who wrote the famous play 'Romeo and Juliet'?",
+		"options": [
+			"Charles Dickens",
+			"Mark Twain",
+			"William Shakespeare",
+			"Jane Austen"
+		],
+		"correctOption": 2
+	},
+	{
+		"id": 20,
+		"question": "Which planet is closest to the Sun?",
+		"options": ["Venus", "Earth", "Mars", "Mercury"],
+		"correctOption": 3
+	}
+]

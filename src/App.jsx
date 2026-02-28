@@ -4,6 +4,7 @@ import Calender from './Pages/Calender'
 import CurrencyConverter from './Pages/CurrencyConverter'
 import DigitalClock from './Pages/DigitalClock'
 import PasswordGenerator from './Pages/PasswordGenerator'
+import QuizApp from './Pages/QuizApp'
 import WeatherApp from './Pages/WeatherApp'
 
 const App = () => {
@@ -20,7 +21,9 @@ const App = () => {
 
         {/* <Accordian /> */}
 
-        <Calender />
+        {/* <Calender /> */}
+
+        <QuizApp />
     </div>
   )
 }
